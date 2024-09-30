@@ -1,9 +1,15 @@
 # Pizza-pal
 
 Pizza front-end application
-# git Clone
 
-git clone https://github.com/Ankit060607/Pizzeria.git
+# Author
+Name :- Ankit Kumar
+
+# Installation
+
+1. Clone this repository to your local machine:
+
+`git clone https://github.com/Ankit060607/Pizzeria.git`
 
 ## Overview
 
