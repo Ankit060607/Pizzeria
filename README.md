@@ -1,8 +1,9 @@
 # Pizza-pal
 
 Pizza front-end application
+# git Clone
 
-![PizzaPal](https://github.com/Ankit060607/Pizzeria/tree/main)
+git clone https://github.com/Ankit060607/Pizzeria.git
 
 ## Overview
 
